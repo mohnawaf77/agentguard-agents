@@ -1,2 +1,2 @@
-# agentduard-agents
+# agentguard-agents
 One-click downloadable agents
